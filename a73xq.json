@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1685352307,
-      "filename": "lineage-20.0-20230529-UNOFFICIAL-a73xq.zip",
-      "id": "da5382a9fa40f6462590e4170c931de3",
+      "datetime": 1685416369,
+      "filename": "lineage-20.0-20230530-UNOFFICIAL-a73xq.zip",
+      "id": "9c055ae4b66a788eb28b67d23e5e84c6",
       "romtype": "unofficial",
       "size": 1200000000,
-      "url": "https://github.com/samsung-778/API_update/releases/download/20230529/lineage-20.0-20230529-UNOFFICIAL-a73xq.zip",
+      "url": "https://github.com/samsung-778/API_update/releases/download/20230530/lineage-20.0-20230530-UNOFFICIAL-a73xq.zip",
       "version": "20.0"
     }
   ]
